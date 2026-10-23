@@ -1,0 +1,22 @@
+<div class="hero-visual">
+  <figure class="portrait portrait-compact"><div class="portrait-frame"><img src="assets/vicky-graduation.jpg" alt="Jinman (Vicky) Zhang in graduation robes, holding sunflowers and white flowers." width="1344" height="1344" fetchpriority="high"></div><figcaption>Jinman (Vicky) Zhang <span>Researcher &amp; maker</span><small>Culture, curiosity &amp; creative technology.</small></figcaption></figure>
+  <section class="heritage-lab" aria-labelledby="heritage-title" data-active="objects">
+    <div class="scene-heading"><p class="eyebrow">A little world of heritage</p><span aria-hidden="true">✦</span></div>
+    <div class="heritage-stage">
+      <svg class="heritage-drawing" width="560" height="340" viewBox="0 0 560 340" fill="none" aria-hidden="true">
+        <defs><pattern id="heritage-grid" width="36" height="24" patternUnits="userSpaceOnUse" patternTransform="matrix(1 .32 -1 .32 275 160)"><path d="M36 0H0V24" stroke="#8DB8D8" stroke-opacity=".23" stroke-width="1"/></pattern><radialGradient id="heritage-glow"><stop stop-color="#F8DECA" stop-opacity=".8"/><stop offset="1" stop-color="#FFF9EE" stop-opacity="0"/></radialGradient></defs>
+        <ellipse cx="280" cy="206" rx="255" ry="120" fill="url(#heritage-glow)"/>
+        <path d="M20 185L290 85L548 198L280 320Z" fill="url(#heritage-grid)"/>
+        <g class="scene-layer" data-depth=".45"><ellipse cx="282" cy="238" rx="145" ry="48" stroke="#B8ACCE" stroke-opacity=".5" stroke-dasharray="4 7"/><path class="story-thread" d="M150 220C200 290 425 265 403 192S248 113 273 192S146 230 150 220" stroke="#8DB8D8" stroke-width="2" stroke-dasharray="4 6"/></g>
+        <g class="scene-layer scene-portal" data-depth=".8"><path d="M202 215V119C202 35 320 35 320 119V215L299 227V121C299 64 224 64 224 121V226Z" fill="#F8DECA"/><path d="M224 226V121C224 64 299 64 299 121V227" stroke="#C89272" stroke-width="1.4"/><path d="M202 215L224 226M202 119L224 126M320 119L299 126" stroke="#C89272"/><path d="M224 226L261 244L299 227" fill="#E6EFF5"/><path d="M244 218L263 228L283 218" stroke="#8DB8D8"/><circle cx="265" cy="151" r="24" fill="#E6EFF5"/><path d="M247 153L260 140L271 151L282 140M260 174V155" stroke="#8DB8D8" stroke-width="2"/></g>
+        <g class="scene-layer scene-object" data-depth="1.2"><ellipse cx="390" cy="238" rx="43" ry="14" fill="#D9D3C8" opacity=".35"/><path d="M355 218L391 204L427 218V238L391 252L355 238Z" fill="#E6EFF5"/><path d="M355 218L391 232L427 218M391 232V252" stroke="#8DB8D8" stroke-opacity=".55"/><path d="M365 144C366 164 351 176 355 194C361 220 416 220 422 194C427 176 411 164 412 144Z" fill="#ECA278"/><ellipse cx="389" cy="144" rx="24" ry="7" fill="#F8DECA" stroke="#C89272"/><path d="M364 177C379 185 399 185 414 177M361 187C380 197 400 197 417 187" stroke="#FFF9EE" stroke-width="2"/><path d="M376 150C371 168 369 168 369 173" stroke="#FFF9EE" stroke-opacity=".6" stroke-width="2"/></g>
+        <g class="scene-layer scene-book" data-depth="1.5"><ellipse cx="155" cy="251" rx="55" ry="17" fill="#D9D3C8" opacity=".25"/><path d="M105 206L151 188L204 210L157 231Z" fill="#FFF9EE" stroke="#B8ACCE" stroke-width="1.5"/><path d="M105 206V225L157 249L204 227V210L157 231Z" fill="#D8CFE5"/><path d="M157 231V249M113 214L149 231M113 221L149 238M166 233L195 220" stroke="#FFF9EE"/><path d="M151 188L157 231M122 205L140 198M130 211L145 205M166 206L185 213M166 214L178 218" stroke="#B8ACCE" stroke-width="1.5"/></g>
+        <g class="scene-layer" data-depth="2"><circle cx="355" cy="101" r="5" fill="#B8ACCE"/><circle cx="164" cy="156" r="4" fill="#ECA278"/><circle cx="288" cy="278" r="4" fill="#8DB8D8"/><path d="M433 112V126M426 119H440M129 116V126M124 121H134" stroke="#C89272" stroke-width="1.5"/></g>
+      </svg>
+      <button class="scene-point point-object" type="button" data-story="objects" aria-pressed="true">01 <span>Objects</span></button>
+      <button class="scene-point point-book" type="button" data-story="stories" aria-pressed="false">02 <span>Stories</span></button>
+      <button class="scene-point point-portal" type="button" data-story="worlds" aria-pressed="false">03 <span>Worlds</span></button>
+    </div>
+    <div class="scene-caption"><h2 id="heritage-title">Every object holds a story.</h2><p class="scene-description" aria-live="polite">A vessel, a trace, a memory — a starting point for cultural discovery.</p><p class="scene-hint">Move to explore · Choose a chapter</p></div>
+  </section>
+</div>

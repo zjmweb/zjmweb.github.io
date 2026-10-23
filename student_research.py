@@ -1,0 +1,12 @@
+"""Selected research mentoring, with publication status supported by available evidence."""
+
+def selected_student_research():
+    return '''<section class="section student-research" id="student-research" aria-labelledby="student-research-title">
+<p class="eyebrow">Student Research Mentoring / 学生研究指导</p>
+<h2 id="student-research-title">From curiosity<br>to a research question.</h2>
+<p class="lead">Selected student-authored papers from my research mentoring practice, exploring playful AI, cultural experiences and multisensory interaction.</p>
+<article class="mentoring-paper"><div><span class="research-status">Published · 2026</span><p class="student-author">Student author · Yue Shang</p></div><div><h3>AI-Enhanced Playful Design for Intergenerational Communication: Exploring Generative AI Board Games in Grandparents–Grandchildren Interaction</h3><p class="muted">AI-generated storytelling prompts and playful interaction as a way to support communication between grandparents and grandchildren.</p><p class="research-venue">AIEDCD 2026 · Springer Series in Design and Innovation, vol. 69, pp. 119–132.</p><a class="text-link" href="https://doi.org/10.1007/978-3-032-31104-7_12" target="_blank" rel="noopener noreferrer">Read publication ↗</a></div></article>
+<article class="mentoring-paper"><div><span class="research-status accepted">Accepted · 2026</span><p class="student-author">Student author · Guanrong Lian</p></div><div><h3>From Interaction to Reflection: How AI Persona and Post-Experience Summarization Jointly Shape Aesthetic Anxiety and Interpretive Confidence in Art Exhibitions</h3><p class="muted">Exploring how conversational AI and reflection after an exhibition experience relate to visitors’ confidence in interpreting art.</p><p class="research-venue">ICEMCI 2026 · Acceptance confirmed; final publisher record awaiting verification.</p></div></article>
+<article class="mentoring-paper"><div><span class="research-status accepted">Accepted · 2026</span><p class="student-author">Student author · Ziqian Qu</p></div><div><h3>Beyond vision and sound: designing olfactory experience for multisensory virtual reality</h3><p class="muted">Considering smell as a design material for multisensory experiences beyond the visual and auditory dimensions of VR.</p><p class="research-venue">AID 2026 · Acceptance confirmed; publication awaiting verification.</p></div></article>
+<p class="note">These are student-authored papers presented as research mentoring outcomes. Publication and acceptance are listed separately.</p>
+</section>'''
